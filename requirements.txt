@@ -1,0 +1,10 @@
+# Essential dependencies
+python-docx           # For extracting text from DOCX files
+PyMuPDF               # For extracting text, links, and images from PDFs
+python-pptx           # For extracting text and elements from PPTX files
+Pillow                # For handling images
+sqlite3               # For storing extracted data in an SQLite database
+
+# Testing
+unittest              # For running unit tests (built-in)
+
