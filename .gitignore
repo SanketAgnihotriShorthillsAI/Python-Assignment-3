@@ -12,3 +12,4 @@ __pycache__/
 # Ignore test artifacts
 test_script.cpython-*
 
+output/
